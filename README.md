@@ -9,4 +9,4 @@ Back-end development - Node.js,
 Database - mySQL, 
 API - Axios
 
-All running on localhost.
+All running on localhost. node_modules folder is not uploaded.
